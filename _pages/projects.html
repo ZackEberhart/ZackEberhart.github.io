@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Side Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+<br/>
+<div>
+{% for post in site.projects reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
+</div>
+

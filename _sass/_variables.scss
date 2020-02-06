@@ -5,7 +5,6 @@
 /*
    Typography
    ========================================================================== */
-
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -14,12 +13,15 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+//$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$lobster                    : Lobster, sans-serif;
+$raleway                    : Raleway, sans-serif;
+$sans-serif                 : $raleway;
+$sans-serif-narrow          : $sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,8 +31,8 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$header-font-family         : $lobster;
+$caption-font-family        : $lobster;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -53,12 +55,23 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+// my colors:
+$dark                       : #343239;
+$grey                       : #e3e1e3;
+$red                        : #339989;
+$lighter-red                  : mix(#fff, $red, 100%);
+$light-red                  : mix(#fff, $red, 80%);
+$dark-red                   : mix(#000, $red, 50%);
+$darker-red                 : mix(#000, $red, 75%);
+$white                      : #fff;
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+//$text-color                 : $dark-gray;
+$text-color                 : $dark;
+$border-color               : $red;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -90,11 +103,12 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+//$link-color                 : $info-color;
+$link-color                 : #D03857;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : $light-red;
+$masthead-link-color-hover  : $dark-red;
 
 
 /*

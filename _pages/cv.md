@@ -11,38 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science and Engineering, University of Notre Dame, 2022 (expected)
+  * Honors/Awards: Arthur J. Schmitt Leadership Fellowship in Science and Engineering
+  * Selected Coursework: Advanced Computer Architecture, Complexity and Algorithms, Graduate Operating Systems, Natural Language Processing, Data Science,
+Machine Learning, Pragmatics of Language Usage
+* B.A. in Chemistry (Minor in Computer Science), Colorado College, 2017
+  * Honors/Awards: Dean’s List, cum laude
+  * Selected Coursework: Computer Organization,
+Software Engineering, Artificial Intelligence, Robotics
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-Present: Graduate Research Assistant
+  - University of Notre Dame, Notre Dame, IN
+  * Developed a question-answering AI system for API documentation using supervised and reinforcement learning.
+  * Designed and executed 5 empirical studies of programmer behaviors and preferences, which involved hiring over 100
+students, freelance programmers, and professional software engineers.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2017: IT Technician
+  - Colorado Hi-Tech Solutions, Colorado Springs, CO
+  * Wrote programs to automatically name and sort over 200,000 business documents.
+  * Performed miscellaneous tasks, including data entry, reception, and technical support.
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Primary Languages:
+  * Python, Javascript
+* Other Languages:
+  * Java, C, C++, Ruby
+* Machine Learning and NLP Tools:
+  * Keras, Tensorflow, Scikit-Learn, Gensim, NLTK, Pandas, BeautifulSoup
+* Application Development:
+  * Ruby on Rails, React, React Native, Flask, Node.js
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +61,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2017-Present: Events Volunteer
+  - Society of Schmitt Fellows, Notre Dame, Notre Dame, IN
+* 2015-2016: Volunteer Pharmacy Technician
+  - Open Bible Medical Clinic (Formerly TLC Pharmacy), Colorado Springs, CO

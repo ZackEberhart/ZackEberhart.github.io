@@ -53,6 +53,9 @@ def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
 
+def rreplace(s, old, new):
+    li = s.rsplit(old, 1) #Split only once
+    return new.join(li)
 
 for pubsource in publist:
     parser = bibtex.Parser()
@@ -97,18 +100,21 @@ for pubsource in publist:
 
             #Build Citation from text
             citation = ""
+            authors = ""
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                authors = authors+" "+author.first_names[0]+" "+author.last_names[0]+", "
+            authors = rreplace(authors[:-2].replace("Zachary Eberhart", "<b>Zachary Eberhart</b>"), ", ", ", and ")
 
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            citation = citation + "\"" + b["title"].replace("{", "").replace("}","").replace("\\","") + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
-            citation = citation + " " + html_escape(venue)
+            citation = citation + " " + venue
             citation = citation + ", " + pub_year + "."
 
             
@@ -116,6 +122,8 @@ for pubsource in publist:
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
+
+            md += """\nauthors: """  + html_escape(authors)
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             
