@@ -1,7 +1,8 @@
 ---
 title: "TSŪKU"
 excerpt: "An asbtract strategy game for Android."
-image: "<img src='/images/500x300.png'>"
+header:
+    teaser: tsuku.png
 collection: projects
 ---
 Links: 

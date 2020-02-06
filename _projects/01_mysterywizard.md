@@ -1,8 +1,9 @@
 ---
 title: "Mystery Wizard!?"
 excerpt: "An assymetrical strategy board game in development at GMT Games."
-image: "<img src='/images/mysterywizard.png'>"
 collection: projects
+header:
+    teaser: mysterywizard.png
 ---
 Links:
 [Website](https://mysterywizardgame.com/)

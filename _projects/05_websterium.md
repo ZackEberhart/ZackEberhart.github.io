@@ -1,10 +1,12 @@
 ---
 title: "Websterium"
 excerpt: "A cooperative mystery game for the web."
-image: "<img src='/images/500x300.png'>"
+header:
+    teaser: websterium.png
 collection: projects
 ---
 Links:
 [Game](https://mysterium-frontend.herokuapp.com/)
+[GitHub](https://github.com/ZackEberhart/websterium)
 <br>
 Details to be posted soon.

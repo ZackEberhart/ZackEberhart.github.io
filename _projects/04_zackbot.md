@@ -1,7 +1,8 @@
 ---
 title: "ZackBot"
 excerpt: "A GPT-2-based Chatbot for Slack, trained using Slack conversation history."
-image: "<img src='/images/500x300.png'>"
+header:
+    teaser: zackbot.png
 collection: projects
 ---
 <!-- Links: 
