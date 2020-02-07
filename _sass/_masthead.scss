@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: $red;
+  background: $white;
   //background: linear-gradient(90deg, rgba(42,124,111,1) 40%,  rgba(255,255,255,1)80%);
 
   &__inner-wrap {
@@ -33,7 +33,6 @@
 }
 
 .masthead__menu {
-  font-size: $type-size-4;
   ul {
     margin: 0;
     padding: 0;
@@ -43,14 +42,16 @@
 }
 
 .masthead__menu-item {
+  font-size: $type-size-5;
   display: block;
   list-style-type: none;
   white-space: nowrap;
   font-family: $sans-serif;
 
   &--lg {
+    font-size: $type-size-3;
     padding-right: 2em;
     font-weight: 700;
-    font-family: $monospace;
+    font-family: $sans-serif;
   }
 }

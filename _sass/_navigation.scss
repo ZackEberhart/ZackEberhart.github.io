@@ -175,11 +175,14 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
+  display:flex;
+  flex-directino:horizontal;
+  justify-content:space-between;
 
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 1rem 0;
     color: $masthead-link-color;
     text-decoration: none;
     &:hover {
@@ -188,10 +191,11 @@
   }
 
   .masthead__menu-item--lg a{
-      color: $lighter-red;
-      &:hover {
-        color: $masthead-link-color-hover;
-      }
+    margin: 0rem;
+    color: $masthead-main-link-color;
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
   }
 
   button {

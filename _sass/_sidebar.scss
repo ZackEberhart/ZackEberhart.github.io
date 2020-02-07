@@ -47,6 +47,15 @@
 
   img {
     width: 100%;
+    filter: grayscale(100%);
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+  }
+
+  &:hover img{
+    filter: grayscale(0%);
   }
 }
 
@@ -84,23 +93,13 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 275px;
+    //border-radius: 50%;
     margin:auto;
 
-    filter: saturate(100%);
-    -moz-transition: all 0.2s ease-in;
-    -o-transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    transition: all 0.2s ease-in;
-
-    &:hover {
-      filter: saturate(150%);
-    }
-
     @include breakpoint($large) {
-      padding: 3px;
-      border: 2px solid $border-color;
+      //padding: 3px;
+      //border: 2px solid $border-color;
     }
   }
 }
