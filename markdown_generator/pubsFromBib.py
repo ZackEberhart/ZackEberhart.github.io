@@ -86,7 +86,6 @@ for pubsource in publist:
             if "day" in b.keys(): 
                 pub_day = str(b["day"])
 
-                
             pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
@@ -112,7 +111,10 @@ for pubsource in publist:
             citation = citation + "\"" + b["title"].replace("{", "").replace("}","").replace("\\","") + ".\""
 
             #add venue logic depending on citation type
-            venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            if publist[pubsource]["venuekey"] in b:
+                venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            else:
+                venue = "Preprint"
 
             citation = citation + " " + venue
             citation = citation + ", " + pub_year + "."
@@ -134,16 +136,17 @@ for pubsource in publist:
                     note = True
 
             md += "\ndate: " + str(pub_date) 
-
-            md += "\nvenue: '" + html_escape(venue) + "'"
+            
+            if publist[pubsource]["venuekey"] in b:
+                md += "\nvenue: '" + html_escape(venue) + "'"
             
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
-
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            citation = html_escape(citation).replace("Zachary Eberhart", "<b>Zachary Eberhart</b>")
+            md += "\ncitation: '" + citation + "'"
 
             md += "\n---"
 

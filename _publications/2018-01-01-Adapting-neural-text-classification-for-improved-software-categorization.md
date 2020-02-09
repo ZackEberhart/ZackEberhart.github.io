@@ -6,6 +6,6 @@ permalink: /publication/2018-01-01-Adapting-neural-text-classification-for-impro
 date: 2018-01-01
 venue: 'In the proceedings of 2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)'
 paperurl: 'https://arxiv.org/abs/1806.01742'
-citation: ' Alexander LeClair,  Zachary Eberhart,  Collin McMillan, &quot;Adapting neural text classification for improved software categorization.&quot; In the proceedings of 2018 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2018.'
+citation: ' Alexander LeClair,  <b>Zachary Eberhart</b>,  Collin McMillan, &quot;Adapting neural text classification for improved software categorization.&quot; In the proceedings of 2018 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2018.'
 ---
 [Access paper here](https://arxiv.org/abs/1806.01742){:target="_blank"}

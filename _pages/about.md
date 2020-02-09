@@ -16,18 +16,28 @@ Words words words -->
 
 
 ## Education
-<p>
-<b>Ph.D. (2017-present)</b><br/>
-University of Notre Dame<br/>
-Computer Science and Engineering<br/>
-</p>
+<div class="education__container" >
+<div class=" education__item">
+  <h3>
+  Ph.D. (2017-present)
+  </h3>
+  <p>
+  University of Notre Dame<br/>
+  Computer Science and Engineering<br/>
+  </p>
+</div>
 
-<p>
-<b> B.A. (2014-2017)</b><br/>
-Colorado College<br/>
-Major: Chemistry<br/>
-Minor: Computer Science<br/>
-</p>
+<div class=" education__item">
+  <h3>
+  B.A. (2014-2017)
+  </h3>
+  <p>
+  Colorado College<br/>
+  Major: Chemistry<br/>
+  Minor: Computer Science<br/>
+  </p>
+</div>
+</div>
 
   
 <!-- ## Technical Skills
@@ -41,13 +51,12 @@ Minor: Computer Science<br/>
 * Application Development:
   * Ruby on Rails, React, React Native, Flask, Node.js -->
 
-## Publications
 
 <!--   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-<div style="clear: both;"></div>
+## Publications
 {% for post in site.publications reversed  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
