@@ -37,7 +37,7 @@ I decided to train the model longer. It started picking up on some conversationa
 
 And no, CRN and CRP are nothing.
 
-At that point, I new it was time to reimplement it into a Slack bot and let the goon run wild. I used a bad-of-words decision tree trained on the Slack history to let the bot decide when to contribute something in my stead.
+At that point, I knew it was time to reimplement it into a Slack bot and let the goon run wild. I used a bad-of-words decision tree trained on the Slack history to let the bot decide when to contribute something in my stead.
 
 It was actually amazing how well he inserted himself into our conversations
 
