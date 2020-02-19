@@ -13,7 +13,7 @@ I swear, I started this project two weeks before Silicon Valley did an exact bit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1gFSENorEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 
-I was actually inspired by [this](https://www.gwern.net/GPT-2) post. The author used the (GPT-2)[https://openai.com/blog/better-language-models/] walked through the process of using the OpenAI GPT-2 model to generate poetry in the style of various authors and poets. I highly suggest reading it if you're interested in doing something similar.
+I was actually inspired by [this](https://www.gwern.net/GPT-2) post. The author used the [GPT-2](https://openai.com/blog/better-language-models/) walked through the process of using the OpenAI GPT-2 model to generate poetry in the style of various authors and poets. I highly suggest reading it if you're interested in doing something similar.
 
 The thing that surprised me was how intuitive it was to direct the model to generate text for a specific context, e.g. in the style of a particular author. Essentiallly, all you have to do is precede segments of text in the training data with a brief tag indicating the context. Then, when you go to generate new text, you prime the model with the context by including that tag. It really feels like cheating, but apperantly GPT-2 is capable of picking up on the explicit indicators and learning how to associate them with a particular flavor.
 
@@ -35,7 +35,7 @@ I decided to train the model longer. It started picking up on some conversationa
 
 ![I think this would be hard to explain in the rules...](/images/projects/zlackbot/3.png)
 
-And no, CRN and CRP are nothing in Mystery Wizard.
+And no, CRN and CRP are nothing.
 
 At that point, I new it was time to reimplement it into a Slack bot and let the goon run wild. I used a bad-of-words decision tree trained on the Slack history to let the bot decide when to contribute something in my stead.
 
