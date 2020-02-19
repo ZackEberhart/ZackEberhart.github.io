@@ -29,7 +29,7 @@ I trained the model for a couple of epochs, and the results were looking good:
 
 ![meta](/images/projects/zlackbot/2.png)
 
-They clearly picked up on some of the very recent bot conversation. The bot ID ending in LAV is supposed to be; I think it did a pretty good job capturing the Zack essence, especially with the "GOOOOod."
+They clearly picked up on some of the very recent bot conversation. The bot ID ending in LAV is supposed to be me; I think it did a pretty good job capturing the Zack essence, especially with the "GOOOOod."
 
 I decided to train the model longer. It started picking up on some conversational superstructures. At one point, it mimicked Jackson explaining some new mechanic for our board game:
 
