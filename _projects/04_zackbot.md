@@ -7,10 +7,11 @@ collection: projects
 ---
 Links: 
 Coming soon
-<br>
+<hr>
 I swear, I started this project two weeks before Silicon Valley did an exact bit about it:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y1gFSENorEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 
 I was actually inspired by [this](https://www.gwern.net/GPT-2) post. The author used the (GPT-2)[https://openai.com/blog/better-language-models/] walked through the process of using the OpenAI GPT-2 model to generate poetry in the style of various authors and poets. I highly suggest reading it if you're interested in doing something similar.
 
@@ -34,15 +35,20 @@ I decided to train the model longer. It started picking up on some conversationa
 
 ![I think this would be hard to explain in the rules...](/images/projects/zlackbot/3.png)
 
+And no, CRN and CRP are nothing in Mystery Wizard.
+
 At that point, I new it was time to reimplement it into a Slack bot and let the goon run wild. I used a bad-of-words decision tree trained on the Slack history to let the bot decide when to contribute something in my stead.
 
 It was actually amazing how well he inserted himself into our conversations
 
 ![I think this would be hard to explain in the rules...](/images/projects/zlackbot/4.png)
+<br/>
 ![Quality taste in conversational topics](/images/projects/zlackbot/5.png)
+<br/>
 ![Yup, that's something I would do.](/images/projects/zlackbot/6.png)
 
 Of course, I also decided to make some bots for my pals.
+
 ![INITIATE HUMAN CONVERSATION.](/images/projects/zlackbot/7.png)
 
 It was around this point that the bots' conversations started overtaking ours, and I decided to shut 'er down. RIP ZlackBot, I hope the crab junk is plentiful in heaven.
