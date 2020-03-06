@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). I work on developing virutal assistant technology for software engineers. In my spare time, I enjoy playing and [designing](http://mysterywizardgame.com) board games.
+I am a 3rd year Ph.D. student at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). I work on developing virtual assistant technology for software engineers. In my spare time, I enjoy playing and [designing](http://mysterywizardgame.com) board games.
 
 <!-- ## Research Interests
 
@@ -17,26 +17,35 @@ Words words words -->
 
 ## Education
 <div class="education__container" >
-<div class=" education__item">
-  <h3>
-  Ph.D. (2017-present)
-  </h3>
-  <p>
-  University of Notre Dame<br/>
-  Computer Science and Engineering<br/>
-  </p>
-</div>
+  <a class=" education__item" href="https://www.nd.edu/">
+    <div class=" education__content">
+      <div style="flex:.5">
+        <img src="/images/logos/ND.png"/>
+      </div>
+      <div>
+        <p>
+         <b class="red">Ph.D. (2017-present)</b><br/>
+          University of Notre Dame<br/>
+          Computer Science and Engineering<br/>
+        </p>
+      </div>
+    </div>
+  </a>
 
-<div class=" education__item">
-  <h3>
-  B.A. (2014-2017)
-  </h3>
-  <p>
-  Colorado College<br/>
-  Major: Chemistry<br/>
-  Minor: Computer Science<br/>
-  </p>
-</div>
+  <a class=" education__item" href="https://www.coloradocollege.edu/">
+    <div class=" education__content">
+      <div style="flex:.5">
+        <img src="/images/logos/CC.png"/>
+      </div>
+      <div>
+        <p>
+          <b class="red">B.A. (2014-2017)</b><br/>
+          Colorado College<br/>
+          Chemistry and Computer Science<br/>
+        </p>
+      </div>
+    </div>
+  </a>
 </div>
 
   

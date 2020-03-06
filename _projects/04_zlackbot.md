@@ -15,7 +15,7 @@ I swear, I started this project two weeks before Silicon Valley did an exact bit
 
 I was actually inspired by [this](https://www.gwern.net/GPT-2) post. The author used the [GPT-2](https://openai.com/blog/better-language-models/) walked through the process of using the OpenAI GPT-2 model to generate poetry in the style of various authors and poets. I highly suggest reading it if you're interested in doing something similar.
 
-The thing that surprised me was how intuitive it was to direct the model to generate text for a specific context, e.g. in the style of a particular author. Essentiallly, all you have to do is precede segments of text in the training data with a brief tag indicating the context. Then, when you go to generate new text, you prime the model with the context by including that tag. It really feels like cheating, but apperantly GPT-2 is capable of picking up on the explicit indicators and learning how to associate them with a particular flavor.
+The thing that surprised me was how intuitive it seemed to be to get the model to generate text for a particular context, e.g. in the style of a particular author. Essentially, all you have to do is precede segments of text in the training data with a brief tag indicating the context. Then, when you go to generate new text, you prime the model with the context by including that tag. It really feels like cheating, but apparently GPT-2 is really good at identifying these tags and figuring out how to associate them with a particular semantic flavor.
 
 Upon seeing the post, I immediately had the idea to apply it to my own conversations and create a "ZackBot." I figured Slack would be my best source for a relatively large number of snappy interactions, and that it was also a modality where I frequently communicate in a uniquely Zack-like manner. Plus, it meant that I could refer to the project as "ZlackBot" which is fun.
 
@@ -31,19 +31,21 @@ I trained the model for a couple of epochs, and the results were looking good:
 
 They clearly picked up on some of the very recent bot conversation. The bot ID ending in LAV is supposed to be me; I think it did a pretty good job capturing the Zack essence, especially with the "GOOOOod."
 
-I decided to train the model longer. It started picking up on some conversational superstructures. At one point, it mimicked Jackson explaining some new mechanic for our board game:
+I decided to train the model longer. It started picking up on some conversational superstructures. At one point, it mimicked my friend Jackson explaining some new mechanic for [our board game]({{ site.baseurl }}{% link _projects/01_mysterywizard.md %}):
 
 ![I think this would be hard to explain in the rules...](/images/projects/zlackbot/3.png)
 
 And no, CRN and CRP are nothing.
 
-At that point, I knew it was time to reimplement it into a Slack bot and let the goon run wild. I used a bad-of-words decision tree trained on the Slack history to let the bot decide when to contribute something in my stead.
+At that point, I knew it was time to re-implement it into a Slack bot and let the goon run wild. I used a bad-of-words decision tree trained on the Slack history to let the bot decide when to contribute something in my stead.
 
 It was actually amazing how well he inserted himself into our conversations
 
 ![I think this would be hard to explain in the rules...](/images/projects/zlackbot/4.png)
 <br/>
+<br/>
 ![Quality taste in conversational topics](/images/projects/zlackbot/5.png)
+<br/>
 <br/>
 ![Yup, that's something I would do.](/images/projects/zlackbot/6.png)
 

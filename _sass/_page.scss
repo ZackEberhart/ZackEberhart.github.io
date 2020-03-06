@@ -11,7 +11,7 @@
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
-  animation-delay: 0.35s;
+  animation-delay: 0s;
   font-size: .8em;
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -381,25 +381,83 @@
 .education__container{
   display:flex;
   flex-wrap:wrap;
+  justify-content:space-around;
   width:100%;
+  a{
+    &:hover {
+      text-decoration: none;
+
+      img {
+        box-shadow: none;
+      }
+    }
+  }
 }
 
 .education__item{
+  display:block;
+
   background-color:white;
   box-sizing:border-box;
   border-radius:5px;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
   margin:5px;
   padding:5px;
   height:100;
   width:calc(100% - 10px);
+  border: 1px solid $border-color;
+  color:$dark-gray;
+
   @include breakpoint($small) {
     width:calc(50% - 10px);
   }
-  @include breakpoint($medium) {
-    width:calc(33% - 10px);;
+  @include breakpoint($large) {
+    padding:10px 5px;
+  }
+
+  &:hover{
+    box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 }
+
+.red{
+  color:$red;
+}
+
+.education__content{
+
+  display:flex;
+  text-align:center;
+  @include breakpoint($large) {
+    display:initial;
+  }
+
+  div{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align:left;
+    @include breakpoint($large) {
+      text-align:center;
+    }
+    p{
+      margin:0px;
+      padding:0px;
+    }
+    img{
+      object-fit: contain;
+      height:50px;
+      @include breakpoint($large) {
+        height:65px;
+      }
+      @include breakpoint($x-large) {
+        height:80px;
+      }
+    }
+  }
+}
+
+
 
 /*
    Related
