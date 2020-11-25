@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. student at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). I work on developing virtual assistant technology for software engineers. In my spare time, I enjoy playing and [designing](http://mysterywizardgame.com) board games.
+I am a 4th year Ph.D. student at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of virtual assistant technology to software engineering tasks. In my spare time, I enjoy playing and [designing](http://mysterywizardgame.com) board games.
 
 <!-- ## Research Interests
 
