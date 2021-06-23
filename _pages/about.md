@@ -25,8 +25,8 @@ Words words words -->
       <div>
         <p>
          <b class="red">Ph.D. (2017-present)</b><br/>
-          University of Notre Dame<br/>
-          Computer Science and Engineering<br/>
+          <b>University of Notre Dame</b><br/>
+          <i>Computer Science and Engineering</i><br/>
         </p>
       </div>
     </div>
@@ -40,8 +40,8 @@ Words words words -->
       <div>
         <p>
           <b class="red">B.A. (2014-2017)</b><br/>
-          Colorado College<br/>
-          Chemistry and Computer Science<br/>
+          <b>Colorado College</b><br/>
+          <i>Chemistry and Computer Science</i><br/>
         </p>
       </div>
     </div>
