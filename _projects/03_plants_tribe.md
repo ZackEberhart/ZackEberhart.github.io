@@ -9,12 +9,10 @@ collection: projects
 description: "A \"Plant\" tribe concept for Hearthstone Battlegrounds"
 ---
 
+
+Introducing the Plant tribe in Hearthstone Battlegrounds, consisting of 17 brand-new pesticide-free minions! Will you nurture your plants into a symbiotic garden, or feed into their carnivorous overgrowth? Take a look at the image gallery to see the cards, and if you're curious to hear how they came together, read through my bizarrely comprehensive write-up below.
+
 {% include image-gallery.html folder="images/battlegrounds" %}
-
-
-Introducing the Plant tribe in Hearthstone Battlegrounds, consisting of 17 brand-new pesticide-free minions! Will you nurture your plants into a symbiotic garden, or feed into their carnivorous overgrowth?
-
-Feel free to check out the image gallery above, or read through my bizarrely comprehensive write-up below.
 
 ## Page Contents: 
 1. [Introduction](#Introduction)
