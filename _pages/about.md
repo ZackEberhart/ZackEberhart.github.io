@@ -1,4 +1,5 @@
 ---
+layout: main
 permalink: /
 title: "Overview"
 excerpt: "Overview"
@@ -8,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year Ph.D. student at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of virtual assistant technology to software engineering tasks, including source code search and source code summarization. In my spare time, I enjoy playing and [designing](http://mysterywizardgame.com) board games.
+I am a Ph.D. candidate at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of virtual assistant technology to software engineering tasks, including source code search and source code summarization. In my spare time, I enjoy designing board games and web applications.
 
 <!-- ## Research Interests
 
@@ -24,7 +25,8 @@ Words words words -->
       </div>
       <div>
         <p>
-         <b class="red">Ph.D. (2017-present)</b><br/>
+         <b class="red"> Ph.D. (Expected 2022)</b><br/>
+         <b class="red">M.S. (2021) </b><br/>
           <b>University of Notre Dame</b><br/>
           <i>Computer Science and Engineering</i><br/>
         </p>
@@ -39,7 +41,7 @@ Words words words -->
       </div>
       <div>
         <p>
-          <b class="red">B.A. (2014-2017)</b><br/>
+          <b class="red">B.A. (2017)</b><br/>
           <b>Colorado College</b><br/>
           <i>Chemistry and Computer Science</i><br/>
         </p>
@@ -64,6 +66,11 @@ Words words words -->
 <!--   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+## Service
+* Program Committee Member for [IEEE/ACM Mining Software Repositories (MSR) Conference](https://conf.researchr.org/home/msr-2022), 2022
+* Vice President of the University of Notre Dame Graduate Student Government, 2022-Present
+* Social Committee Chair of the University of Notre Dame Graduate Student Government, 2020-2022 
 
 ## Publications
 {% for post in site.publications reversed  %}
@@ -98,9 +105,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- ## Service and leadership
-* 2017-Present: Events Volunteer
-  - Society of Schmitt Fellows, Notre Dame, Notre Dame, IN
-* 2015-2016: Volunteer Pharmacy Technician
-  - Open Bible Medical Clinic (Formerly TLC Pharmacy), Colorado Springs, CO
- -->

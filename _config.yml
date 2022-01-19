@@ -83,7 +83,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpg"
-  bio              : 
+  bio              : "fdsfdsa fndsa fdsa "
   location         : "South Bend, IN"
   employer         :
   pubmed           : 
@@ -209,7 +209,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _publications
   - scope:
       path: ""
