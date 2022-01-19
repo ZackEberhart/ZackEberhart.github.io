@@ -12,7 +12,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0s;
-  font-size: .8em;
+  font-size: .9em;
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
@@ -33,6 +33,14 @@
     .page__share {
       @include full();
     }
+  }
+}
+
+.page_single {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(1 of 12);
+    @include suffix(1 of 12);
   }
 }
 

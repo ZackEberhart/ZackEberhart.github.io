@@ -3,6 +3,8 @@ title: "TSŪKU"
 excerpt: "An abstract strategy game for Android."
 header:
     teaser: tsuku.png
+    overlay_image: twoku.png
+    overlay_filter: rgba(0,0,0,.5)
 collection: projects
 ---
 Links: 
@@ -10,7 +12,11 @@ Links:
 [GitHub](https://github.com/ZackEberhart/tsuku)
 <br>
 
-![Tsuku logo](/images/tsuku.png)
+<p style="text-align: center; font-weight: bold;">TSŪKU is an abstract strategy game based on the board game <a href="https://www.smirkandlaughter.com/shobu">"SHōBU"</a> by Smirk and Laughter Games. Tsūku is a Japanese word that means "poke" or "prod." The game involves setting up attacks with mirror moves to push your opponent's pieces off of a board.</p>
 <br>
 
-TSŪKU is an abstract strategy game based on the board game ["SHōBU"](https://www.smirkandlaughter.com/shobu) by Smirk and Laughter Games. Tsūku is a Japanese word that means "poke" or "prod." The game involves setting up attacks with mirror moves to push your opponent's pieces off of a board.
+![Tsuku logo](/images/tsuku.png)
+
+## Details
+
+
