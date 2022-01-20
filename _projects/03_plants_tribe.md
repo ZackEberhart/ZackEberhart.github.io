@@ -122,7 +122,7 @@ Non-plant minions like **Plantsitter Seymour** and **Florist Friar** can provide
 ## Individual Card Breakdown <a name="Breakdown"></a>
 
 ### Tier One
-In-game tribes tend to use Tier 1 minions to introduce toned-down versions of their core concepts (e.g., **Alleycat** and Beast summoning, **Rockpool Hunter** and one-off Murloc buffs, both Quilboars and their delicious gems). But for plants, I didn't see an elegant way to make Tier 1 drains work. Drains are rather weak on their own early game, since they don't directly bring more stats to the board. Of course, Tier 1 minions also get play in the mid and even late game (especially as engine fodder for elementals, pirates, etc.), but they still need to be viable early game if the tribe as a whole is going to be viable. Looking at the set, it seems that every single Tier 1 minion does something to bring value in the first few turns beyond it's vanilla stats.
+In-game tribes tend to use Tier 1 minions to introduce toned-down versions of their core concepts (e.g., **Alleycat** and Beast summoning, **Rockpool Hunter** and one-off Murloc buffs, both Quilboars and their delicious gems). But for plants, I didn't see an elegant way to make Tier 1 drains work. Drains are rather weak on their own early game, since they don't directly bring more stats to the board. Of course, Tier 1 minions also get play in the mid and even late game (especially as engine fodder for Elementals, pirates, etc.), but they still need to be viable early game if the tribe as a whole is going to be viable. Looking at the set, it seems that every single Tier 1 minion does something to bring value in the first few turns beyond it's vanilla stats.
 
 So, rather than dwell on making a Tier 1 drain work, I opted for making minions that serve as valuable early-game choices in their own rights, while also feeding into a mid-late game Plant build. They are definitely on the weaker side in rounds 1 and 2, but they start to shine after that. They are plants, after all -- they take a while to grow!
 
@@ -133,14 +133,14 @@ Starting off weak: **Ancient Baby** is practically the same as **Micro Machine**
 
  Micro Machine could offer decent value to any early-game build if you purchased in on turn 1 or 2 and kept it around for the next 4 or 5, after which it would just start taking up board space. It had no particular synergy with the Mech tribe -- the best one could do would be to attach an annoy-o-module to it to have a very slow-growing divine shield.
 
-Like **M.M.** **Ancient Baby** offers decent value to all early-game builds (with slightly greater longevity, due to its additional health buff). But importantly, it also serves a synergistic role for a decent chunk of the early-mid game as a renewable drain source. The only Plant that serves a similar role is the Tier 2 minion **Primary Producer**. And while that minion does outclass this one as a drain source, **A.B.**'s versatility makes it a worthwhile inclusion.
+Like **M.M.** **Ancient Baby** offers decent value to all early-game builds (with slightly greater longevity, due to its additional health buff). But importantly, it also serves a synergistic role for a decent chunk of the early-mid game as a renewable drain source. The only Plant that serves a similar role is the Tier 2 minion **Primary Producer**. And while that minion does outclass this one as a drain source, A.B.'s versatility makes it a worthwhile inclusion.
 
 <img src="/images/bg_cards/1_seedpod.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Seedpod**
 
-This is another minion that is weak in Tier 1, but quickly picks up the slack. On its own, it has a weak, but viable body. Unlike **Ancient Baby**, this can hold its own against a few T1 minions on the first turn. The only benefit you get from playing it is a guaranteed **A.B.** or additional Seedpod in the tavern. That's not much, but if you want to start committing to the Plant tribe early, this can be a ticket in. In T2 and beyond, **Seedpod** can help you find minions to being building your plant engine, and once it's built, it can help you procure the fuel to keep it running.
+This is another minion that is weak in Tier 1, but quickly picks up the slack. On its own, it has a weak, but viable body. Unlike **Ancient Baby**, this can hold its own against a few T1 minions on the first turn. The only benefit you get from playing it is a guaranteed A.B. or additional Seedpod in the tavern. That's not much, but if you want to start committing to the Plant tribe early, this can be a ticket in. In T2 and beyond, **Seedpod** can help you find minions to being building your plant engine, and once it's built, it can help you procure the fuel to keep it running.
 
-Observations: this card's effect is the same as **Frost Elementals**' minus the freeze. It's stats are half of frosty's, and it comes in two tiers lower. The balance feels appropriate to me -- if anything, it's just a little boring to have another nearly-identical effect to one already in game. Luckily, we're getting fresh effects from here on out.
+Observations: this card's effect is the same as **Frost Elementals**' minus the freeze. It's stats are half of Frosty's, and it comes in two tiers lower. The balance feels appropriate to me -- if anything, it's just a little boring to have another nearly-identical effect to one already in game. Luckily, we're getting fresh effects from here on out.
 
 
 <br/>
@@ -148,39 +148,39 @@ Observations: this card's effect is the same as **Frost Elementals**' minus the 
 ### Tier Two
 Tier 1 is just an appetizer -- a starter salad, if you will -- something to whet your appetite. Tier 2 is the real first course. It doesn't quite commit you to a full-on plant build, but it's where you start to get the plant tribe experience. Hopefully, the progression should feel familiar to the other tribes.
 
-<img src="/images/bg_cards/oaky.png" style="display: block;margin-left: auto; margin-right: auto;"/>
+<img src="/images/bg_cards/2_oaky.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
 * **Oaky Dokey**
 
-At last, we have a drainer! This card serves a lot of different purposes over the course of the game.  When you play it in T2, it serves as an instant powerhouse. It's initial stats are 2/4, but assuming you can get a full drain, that'll bring it up to 5/7. The highest vanilla stats on a T2 minion are 3/5 (and 5/3). Access to a 5/7  taunter straight onto the board in T2 is pretty cool, and synergizes well with some other T2 minions  (e.g. selfless hero, glyph guardian). It also has a modest yet effective synergy with Primary Producer, if you can grab one of those first. Finally, it grants you some versatility by consolidating stats from a minion that you can choose to sell at a later point. 
+At last, we have a drainer! This card serves a lot of different purposes over the course of the game.  When you play it in T2, it serves as an instant powerhouse. It's initial stats are 2/4, but assuming you can get a full drain, that'll bring it up to 5/7. The highest vanilla stats on a T2 minion are 3/5 (and 5/3). Access to a 5/7  taunter straight onto the board in T2 is pretty cool, and synergizes well with some other T2 minions  (e.g. **Selfless Hero**, **Glyph Guardian**). It also has a modest yet effective synergy with **Primary Producer**, if you can grab one of those first. Finally, it grants you some versatility by consolidating stats from a minion that you can choose to sell at a later point. 
 
-Later on, that stat consolidation will become more important as you run out of space for new minions, and the Taunt will be able to help some of your supports survive in combat. And old Oaky Dokeys that had previously served as powerhouses make good candidates for subsequent drain sources.
+Later on, that stat consolidation will become more important as you run out of space for new minions, and the Taunt will be able to help some of your supports survive in combat. And old **Oaky Dokeys** that had previously served as powerhouses make good candidates for subsequent drain sources.
 
 <img src="/images/bg_cards/2_berserker.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
 * **Infested Berserker**
 
-This minion is one of two plants that drains during combat. With its windfury, it can drain up to four times when it attacks. On its own, this ability is not particularly impressive -- at best, it can be useful for taking out pesky cards like Monstrous Macaw and Soul Juggler. But combined with Plants that grant drain buffs, this can become devastating.
+This minion is one of two plants that drains during combat. With its Windfury, it can drain up to four times when it attacks. On its own, this ability is not particularly impressive -- at best, it can be useful for taking out pesky cards like **Monstrous Macaw** and **Soul Juggler**. But combined with Plants that grant drain buffs, this can become devastating.
 
 Well, relatively devastating. How devastating exactly? I'm going to jump ahead and see how strong I can make this card by mid-late game if I pull every  Plant minion I need.
 
 No golds:
-1x Infested Berserker, draining 1 from adjacent 2 times
-2x Primary Producer, each generating +1/+1 when drained
-2x Gold Fungal Enchanter, each granting +1/+1 on drain.
-1x Lichen King, doubling all drains
+- 1x **Infested Berserker**, draining 1 from adjacent 2 times,
+- 2x **Primary Producer**, each generating +1/+1 when drained,
+- 2x **Fungal Enchanter**, each granting +1/+1 on drain,
+- 1x **Lichen King**, doubling all drains
 
 I.B. will net 12/4, while the Producers each lose 2 Attack but gain 2 Defense. Total net gain is +8/+8.
 
 All golds:
-1x Infested Berserker, draining 1 from each adjacent 4 times (mega windfury)
-2x Primary Producer, each generating +2/+2 when drained
-2x Gold Fungal Enchanter, each granting +2/+2 on drain.
-1x Lichen King, tripling all drains
+- 1x **Infested Berserker**, draining 1 from each adjacent 4 times (mega Windfury),
+- 2x **Primary Producer**, each generating +2/+2 when drained,
+- 2x **Fungal Enchanter**, each granting +2/+2 on drain,
+- 1x **Lichen King**, tripling all drains.
 
 I.B. will net 40/16, while the Producers each lose 4 Attack but gain 8 Defense. Total net gain is +32/+32.
 
-It definitely takes some setting up, but this is a pretty rad combo. Other Plants can help I.B. drain some Health along the way to help it survive these attacks. Throw in the T6 minion Ixlid, Fungal Lord, and  the attack drained by I.B. is redistributed to the other friendly minions once he dies.
+It definitely takes some setting up, but this is a pretty rad combo. Other Plants can help I.B. drain some Health along the way to help it survive these attacks. Throw in the T6 minion **Ixlid, Fungal Lord**, and  the attack drained by I.B. is redistributed to the other friendly minions once he dies.
 
 <img src="/images/bg_cards/2_producer.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
@@ -188,68 +188,146 @@ It definitely takes some setting up, but this is a pretty rad combo. Other Plant
 
 This is the first "engine-building" minion, gaining a small buff whenever it's drained. 
 
-It has modest synergies with both ok the other T2 minions. It's stats are just high enough that it can survive a drain from Oaky Dokey (playing the pair nets +1/+1), and it can net at least a temporary +2/+2  during combat by synergizing with Infested Berserker (see above).
+It has modest synergies with both ok the other T2 minions. It's stats are just high enough that it can survive a drain from **Oaky Dokey** (playing the pair nets +1/+1), and it can net at least a temporary +2/+2  during combat by synergizing with **Infested Berserker** (see above).
 
 Its true power comes out in T3 and beyond, with minions that can repeatedly tap it for small permanent buffs, and minions that can help it recharge its stats should they get too low.
 
 
 
-# Writing in progress, check back soon!
-<!-- 
+### Write-ups on Tier 3 and above coming soon.
+
 ### Tier Three
+
+<img src="/images/bg_cards/3_enchanter.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
 * **Fungal Enchanter**
 
+<img src="/images/bg_cards/3_guardian.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
 * **Twisted Guardian**
 
+<img src="/images/bg_cards/3_festerroot.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
 * **Splitting Festerroot**
 
+<img src="/images/bg_cards/3_seymour.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 
 * **Plantsitter Seymour**
 
 
 ### Tier Four
 
+<img src="/images/bg_cards/4_spitter.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Vilespawn Spitter**
 
 
+<img src="/images/bg_cards/4_ancient.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Ancient of Foresight**
 
 
 ### Tier Five
 
+<img src="/images/bg_cards/5_manager.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Branch Manager**
 
 
+<img src="/images/bg_cards/5_conduit.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Living Conduit**
 
 
+<img src="/images/bg_cards/5_friar.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Florist Friar**
 
 
+<img src="/images/bg_cards/5_king.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **The Lichen King**
 
 
 ### Tier Six
 
+<img src="/images/bg_cards/6_ixlid.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Ixlid, Fungal Lord**
 
 
+<img src="/images/bg_cards/6_audrey.png" style="display: block;margin-left: auto; margin-right: auto;"/>
 * **Audrey 2000**
 
 
 
 ## Challenges <a name="Challenges"></a>
-### ... So, minions can die outside of combat?
-### Uh oh, that low-tier [Divine Shield/Poisonous/Attacks Adjacent MinionsAttack Doubling] minion has just got really high stats!
+
+I ran into a lot of challenges putting the design together, but I decided to see it through to the end. Ultimately I feel like I've come away with a deeper understanding of and appreciation for evaluation and iteration in game design.
+
+
+### Reinventing the wheel (Or: On the backs of giants)
+When designing new cards, you're at least vaguely aware that you're working in the context of every other card that's ever existed. What should you take from that knowledge? Should you try to replicate the feeling of existing cards since you know they work, or should you try to make sure every card does something completely new? What about old cards that have been retired -- do you avoid them like the plague, or would copying aspects of those actually be preferable, since they're not represented in the current ensemble? It's definitely a balancing act. I think anyone would lean towards bringing in fresh ideas, but for me, it was also important to maintain some perspective. Not every Tier-1 or Tier-2 minion is utterly unique -- several of them have some variation of "Deathrattle: Summon a small friend." I felt comfortable giving Ancient Baby a familiar ability, because it seemed to work and do something fresh in this context.
+
+### Undefined Behavior (Or: ... So, minions can die outside of combat?)
+To the best of my knowledge, there don't seem to be any BG cards with effects that can reduce your own minions' Health during downtime. There are a number of cards that "remove" friendly minions from the board or "consume" tavern minions, but in those cases, it's clear that any abilities that proc on damage or death will not apply.
+
+So, what would happen if you drain a Deathrattle minion to death? I'm not sure if the logic built into the game would even know how to handle something like this! There are a few abilities that you can proc in and out of combat, e.g.  "when you summon" triggers and **Whelp Smuggler**'s "when you gain Attack" trigger. But Deathrattlers aren't all built in the same way, and quite a lot of them have effects that only apply during combat (e.g., dealing damage to enemies).
+
+So what *should* happen? On the one hand, draining to 0 health sure looks a lot like damage and death, so it would make sense to proc those triggers. Unfortunately, I imagine that giving players that ability would really throw off the balance of some existing cards, e.g. killing **Selfless Hero** for a permanent shield, killing **Nadina** for permanent shields on ALL of your dragons, spawning infinite demons with **Imp Mama**.
+
+For a time, I tried avoiding having any Plant cards that drained Health from a "minion" target outside of combat (only ever from other Plant targets). But as the tribe evolved, the configuration of the drain mechanic I found to work best was having temporary in-combat drains prioritize Attack, and permanent out-of-combat drains prioritize Health. That meant that Plants wouldn't have any/many opportunities to permanently drain from non-Plant minions -- which was a core design pillar!
+
+I considered just giving up and making **Drain** into a keyword with the caveat that a minion cannot be drained lower than 1 Health. Not only did adding a keyword rub me the wrong way, but that caveat didn't feel intuitive enough -- even if it was defined for the player, it would seem like an arbitrary rule, and it wouldn't be easy to remember.
+
+I also considered just allowing minions with 0 Health to just stay on the board until combat, whereupon they would instantly die. But, no, that was bad.
+
+Ultimately, I decided that since the mechanic was currently undefined, I would just give it a definition: being drained and dying out of combat do **not** proc damage triggers or Deathrattles. It's not ideal, but it's not completely unintuitive either. Thematically, consensual draining does not feel like the same activity as taking damage, so players won't *necessarily* expect it to act as such (this could be reinforced in-game with animations and sound that distinguish it). As for Deathrattles, there is a precedent for "removing" friendly minions from the board without triggering effects. Most importantly, I observed that the game draws a distinction between "Playing" minions and "Summoning" minions (the distinction being that minions summoned automatically do not proc "Play" triggers). In the same way, I feel it's fair to institute that being drained of life and "dying" fall into different categories. If need be, the definition for Deathrattles in BG could be amended to specify dying "in combat."
+
+When a concept for a game mechanic leads to undefined behavior, it's often best to just [turn 360 degrees and walk away](https://i.kym-cdn.com/photos/images/newsfeed/001/265/714/fd1.gif). But there is a trade off here -- if the idea is good enough, and you can provide a definition that is intuitive, easy to define, easy to learn, and easy to remember, you may as well go for it. Of course, I'm not sure how well users would *actually* take to this rendition of the draining mechanic in practice -- would need to run some experiments!
+
+
+
+### Unintended Consequences (Or: Uh oh, that low-tier [Divine Shield/Poisonous/Attacks Adjacent Minions/Attack Doubling] minion just got really high stats!?)
+
+Thanks to the decision not to have drains trigger Deathrattles, I didn't need to worry about letting players get permanent divine shields from every **Selfless Hero** they came across. But some of my early ideas would have led to things nearly as strong.
+
+At various points, there were Plants that allowed non-Plant minions to drain stats, as well as Plants that granted their stats to random minions when sold. These seemed like reasonable concepts, until it occurred to me that some minions are only kept in check by their low stats and limited access to permanent buffs. Take **Cave Hydra**. If an arbitrary Hydra could absorb a buffed Plant's stats, potentially as early as Tier 4, it would be an absolute beast (!).
+
+There were a number of ways to keep the general concepts while curbing the consequences. For the stats-given-on-sale mechanic, rather than giving all stats to a random minion, it could just give half -- or even a constant value. I could have made the stat-granting card a Tier 6 to ensure that plays like that would only be possible in the late game. Really, there were countless ways to work around it, but few of them had the simplicity and thematic appeal of the first, broken iteration. In the end, a form of that mechanic did make it into the tribe -- instead of a random tavern minion absorbing a Plant's stats, the Tier 6 minion **Audrey 2000** absorbs the stats of any minions sold while it's in the tavern.
+
+On the one hand, stumbling upon unintended consequences like this can help you define the boundaries of your playing field -- I can now see that the ability to grant arbitrarily large stats to ANY minion is incredibly strong, no matter the cost.
+
+On the other hand, consequences like this can sometimes challenge your conception of your game's existing balance and mechanics altogether. At some point, I realized that as crazy as this power had seemed, there was already something in-game that did the same thing, but stronger: **Vol'jin**. His Hero Power lets you swap any two minion's stats EVERY TURN! FOR FREE! Reading over player comments from when he was first announced, people were, in fact, worried that he would be absolutely busted. And, uh, he is pretty strong. But no, he doesn't quite rise to game-breaking levels. And most importantly: he's really fun to play! In addition to bringing this strong new ability, he also introduced the first effect in BG that required the player to select two targets. That's one of those mechanics that would seem almost too heavy to even have in BG, but in practice, it works just fine. The ability itself is so straightforward that selecting two targets is second nature.
+
+I have to imagine that there were some heated conversations about **Vol'jin**, and some heavy playtesting before he was introduced. I decided to back away from what I perceived to be an overpowered ability, but in some cases, it's worth it to go down the rabbit hole.
+
+
 ### Balance? Balance!
+
+Balance was at the front of my mind during a lot of the tribe's development. Early on, I didn't want to seriously consider any mechanics or abilities that seemed like they would break the game's existing balance. I was constantly checking the Battlegrounds cards list, tweaking individual stats up and down 1 at a time to make sure a card didn't feel over/underpowered compared to existing cards.
+
+About halfway through the development, I realized that I simply could not use static analysis to balance against every card in the game. There are so many factors at play, so many unforeseen interactions, that it is silly to attempt to get everything right the first time. If I wanted to balance these cards, I would need to playtest them extensively -- not gonna happen. 
+
+To an extent, balance needs to be separate from design. Rather than base stats around the entire set of existing cards, I limited my scope to the tribe alone, basing stats and abilities on synergies with other Plants. The exact magnitudes may need to be tweaked in practice, but focusing on the fun synergies was what mattered.
+
+
 ### Fun! Fun?
+Speaking of fun... what is fun? On the one hand, fun is something that people tend to agree upon; after all, there are millions of people who seem to think Hearthstone is fun. On the other hand, fun is different from person to person. We all have our own favorite fun activities; even within a shared "fun" experience like BG, different people may have the most "fun" with different tribes. Personally, I prefer to play the slow engine-building tribes like Elementals and Quilboar. I know that the more dynamic tribes like Beasts and Demons can be fun too (and definitely beat me a fair amount of the time), but I prefer a playstyle where I'm more in control.
+
+As with balance, I spent a lot of time early on trying to optimize for fun. I threw out ideas that may have seemed interesting, creative, and balanced, because they just weren't *fun* enough. One card I threw out was a Tier 2 4/8 with "Can't attack." This card complemented a lot of the Plant tribe synergies, but it... just wasn't fun. There are only \~11-18 minions in a tribe, and I couldn't justify including one whose entire gimmick was the lack of an ability.
+
+Another one I threw out was a Gardener concept, who simply gave all plants +1/1 at the end of each turn. I think a card like that could work just fine. It's a bit familiar to, e.g., **Charlga**, but different enough to not feel like a clone. Nevertheless, it just didn't seem fun enough to afford its spot. **Charlga** at least gets interactions with cards that buff blood gems -- the "balanced" version of a gardener I had presented had nothing.
+
+I built the tribe like this: thinking of what other interesting BG interactions look like, thinking about what I'd like to play, thinking about what others might like to play. But occasionally, I would step back, and view it through the eyes of someoneI hadn't considered before -- someone coming from a different card game, a non-gamer, someone who would only ever play Beasts and nothing else. Through these lenses, cards that had previously seemed fun could seem far too intimidating, or confusing, or just plane boring. 
+
+"Immediate fun" is another pillar of Hearthstone's design philosophy, but when you're optimizing for fun, what's the actual function? Should you aim for the most fun for a moderate crowd, or a little fun for everyone? Ultimately, this is another question that you can only really answer with playtests, so in the meantime I decided to trust my instincts, understanding that in practice this would not be the end. 
+
+
 ### Iterating without iterating
-### On the backs of giants.
-### Press (X) to doubt
+The essential challenge underlying this exercise was that I couldn't actually test the cards. You can imagine as many scenarios as you want, but without empirical results it's very tough to know how cards will work in practice.
 
-## Opportunities <a name="Opportunities"></a>
+That said, iteration was not only possible, but critical to the design. Whenever I came up with a good card concept, I would take a look through the existing Plants to see how it would fit in. There would often be interesting interactions or blatant incompatibilities, and identifying synergies and fixes would lead to ideas for new cards.  Once the set resembled a full-size tribe, I found myself going round and round, modifying or replacing cards, and then dealing with the repercussions of those changes. While this definitely helped to an extent, this design phase could be dragged out forever with greatly diminishing returns. At a certain point, I had to say that the tribe had gone as far as it could, would, or should go without proper testing.
 
-## Final Bits <a name="Final"></a> -->
+I am curious if this resembles the process used by actual Hearthstone/CCG designers. A common motto in the industry is "fail fast," but for something like a BG tribe, I'd love to know if that takes the form of prototyping an entire set of cards at once, or if individual cards start to be tested right away. I tend to spend too long in the design stage, but I'd say this exercise has helped me recognize when enough is enough.
+
+
+## Final Bits <a name="Final"></a>
+I haven't done many write ups like this for topics other than [my research](/about), but I hope to do more in the future. All of my projects, be they research, web dev, or game design, involve breaking down problems to their base components and building up solutions piece by piece. It can be easy to lose sight of the countless tiny decisions that go into a system, but it's important to reflect on those decisions in order to learn and grow. 
+
+(Still might've gone a little overboard with this one though -- I'll reign it in next time)
+
+
