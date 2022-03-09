@@ -13,6 +13,9 @@ collection: projects
 Links:
 [GitHub](https://github.com/jwarley/blades-hud) 
 
+Technologies used: 
+Typescript, React, Firebase
+
 This was a project spearheaded by my friend [Jackson Warley](https://github.com/jwarley). He started developing this during a campaign of the tabletop RPG [Blades in the Dark](https://www.evilhat.com/home/blades-in-the-dark/), to help him and his group keep track of their shared information. BitD relies on a unique "clock" mechanic to monitor progress on long-term projects, and well as moment-to-moment action, so the original purpose of the site was to allow all players to view and increment those clocks. 
 
 When I invaded their game as a character named Tik Tok (no relation), the gang's amnesiac muscle, I also invaded the GitHub repo and added a few more features that I thought would be neat to have on hand. Specifically, I added the side bar, the interactive map page, and the notes page. The map and notes sync to Firebase in real time, so players can see markers and updates as they are added.
