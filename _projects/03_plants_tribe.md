@@ -9,6 +9,9 @@ collection: projects
 description: "A \"Plant\" tribe concept for Hearthstone Battlegrounds"
 ---
 
+<img src="/images/construction.gif" style="display: block;margin-left: auto; margin-right: auto;"/>
+
+Date: 2022
 
 <p style="text-align: center; font-weight: bold;">Introducing the Plant tribe in Hearthstone Battlegrounds, consisting of 17 brand-new pesticide-free minions! Will you nurture your plants into a symbiotic garden, or feed into their carnivorous overgrowth? Take a look at the image gallery to see the cards, and if you're curious to hear how they came together, read through my bizarrely comprehensive write-up below.</p>
 
@@ -29,7 +32,7 @@ description: "A \"Plant\" tribe concept for Hearthstone Battlegrounds"
 
 This was a concept I developed over the course of a weekend. I'm a big fan of [Hearthstone](https://playhearthstone.com/en-us), and the Battlegrounds mode in particular. I also dabble in game design, and I constantly have ideas kicking around for ways to theoretically build on the games I love. Of course, taking those ideas and turning them into a cohesive design document is always easier said than done.
 
-I had a blast coming up with ideas and envisioning how they would mesh with existing game mechanics.  I do wish it was feasible to actually test the tribe out *in vivo* -- nevertheless, I was able to come away with a deeper understanding of how one of my favorite games operates, and I'm excited to carry those insights with me as I bring [my own board game's](/projects/01_mysterywizard) development to a close.
+I had a blast coming up with ideas and envisioning how they would mesh with existing game mechanics.  I wish it was feasible to actually test the tribe out *in vivo* -- nevertheless, I was able to come away with a deeper understanding of how one of my favorite games operates, and I'm excited to carry those insights with me as I bring [my own board game's](/projects/01_mysterywizard) development to a close.
 
 This write-up describes how the new tribe works, how it was developed, and the challenges I faced along the way. It's going to assume that the reader is familiar with Battlegrounds' core mechanics and general balance, so if you're not... I guess, go play the game first? Come back once you've accidentally killed yourself with **Wrath Weaver**.
 

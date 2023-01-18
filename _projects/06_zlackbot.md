@@ -5,13 +5,10 @@ header:
     teaser: zackbot.png
 collection: projects
 ---
-Links: 
-Coming soon
-<hr>
-I swear, I started this project two weeks before Silicon Valley made this exact joke:
 
-Technologies used: 
-Python, Flask, Slack API, GPT-2
+Date: 2018ish
+
+I swear, I started this project two weeks before Silicon Valley made this exact joke:
 
 <div style="width:50%; min-width:400px">
 <iframe  src="https://www.youtube.com/embed/Y1gFSENorEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

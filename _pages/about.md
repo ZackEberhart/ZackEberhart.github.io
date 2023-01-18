@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of virtual assistant technology to software engineering tasks, including source code search and source code summarization. In my spare time, I enjoy designing board games and web applications.
+I am a a Gameplay Engineer at [Legacy Labs](https://www.legacylabs.io) and a Ph.D. candidate at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of virtual assistant technology to software engineering tasks, including source code search and source code summarization. In my spare time, I enjoy designing board games and web applications.
 
 <!-- ## Research Interests
 
@@ -25,7 +25,7 @@ Words words words -->
       </div>
       <div>
         <p>
-         <b class="red"> Ph.D. (Expected 2022)</b><br/>
+         <b class="red"> Ph.D. (Expected 2023)</b><br/>
          <b class="red">M.S. (2021) </b><br/>
           <b>University of Notre Dame</b><br/>
           <i>Computer Science and Engineering</i><br/>
@@ -69,7 +69,7 @@ Words words words -->
 
 ## Service
 * Program Committee Member for [IEEE/ACM Mining Software Repositories (MSR) Conference](https://conf.researchr.org/home/msr-2022), 2022
-* Vice President of the University of Notre Dame Graduate Student Government, 2022-Present
+* Vice President of the University of Notre Dame Graduate Student Government, 2022
 * Social Committee Chair of the University of Notre Dame Graduate Student Government, 2020-2022 
 
 ## Publications

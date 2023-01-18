@@ -8,6 +8,9 @@ header:
     overlay_image: mwboard.png
     overlay_filter: rgba(0,0,0,.5)
 ---
+
+<img src="/images/construction.gif" style="display: block;margin-left: auto; margin-right: auto;"/>
+
 Links:
 [Website](https://mysterywizardgame.com/) | 
 [GMT Page](https://www.gmtgames.com/p-734-mystery-wizard.aspx)
