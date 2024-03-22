@@ -25,7 +25,7 @@ Words words words -->
       </div>
       <div>
         <p>
-         <b class="red"> Ph.D. (Expected 2023)</b><br/>
+         <b class="red"> Ph.D. (Expected 2024)</b><br/>
          <b class="red">M.S. (2021) </b><br/>
           <b>University of Notre Dame</b><br/>
           <i>Computer Science and Engineering</i><br/>
