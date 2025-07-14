@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, University of Notre Dame, 2022 (expected)
+* Ph.D in Computer Science and Engineering, University of Notre Dame, 2025 (expected)
   * Honors/Awards: Arthur J. Schmitt Leadership Fellowship in Science and Engineering
   * Selected Coursework: Advanced Computer Architecture, Complexity and Algorithms, Graduate Operating Systems, Natural Language Processing, Data Science,
 Machine Learning, Pragmatics of Language Usage
