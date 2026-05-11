@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a a Gameplay Engineer at [Legacy Labs](https://www.legacylabs.io) and a Ph.D. candidate at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of virtual assistant technology to software engineering tasks, including source code search and source code summarization. In my spare time, I enjoy designing board games and web applications.
+I previously worked as a Software/Gameplay Engineer at [Legacy Labs](https://www.legacylabs.io) and a Ph.D Researcher at the University of Notre Dame advised by [Collin McMillan](https://www3.nd.edu/~cmc/). My research focuses on the application of AI/virtual assistant technology to software engineering tasks, including source code search and source code summarization. In my spare time, I enjoy designing/playing board games, building web applications, and hiking.
 
 <!-- ## Research Interests
 
@@ -25,7 +25,7 @@ Words words words -->
       </div>
       <div>
         <p>
-         <b class="red"> Ph.D. (Expected 2025)</b><br/>
+         <b class="red"> Ph.D. (2026)</b><br/>
          <b class="red">M.S. (2021) </b><br/>
           <b>University of Notre Dame</b><br/>
           <i>Computer Science and Engineering</i><br/>
