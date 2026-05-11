@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zachary Eberhart"
 title_separator          : "-"
 name                     : &name "Zachary Eberhart"
-description              : &description "Graduate student at the University of Notre Dame"
+description              : &description "Software Engineer and AI Researcher"
 # url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://zackeberhart.tech # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &ZackEberhart
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,16 +83,12 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpg"
-  bio              : "Computer Science PhD Candidate at the University of Notre Dame. 
-
-  Gameplay Engineer at Legacy Labs.
-
-  Occasional web dev and tabletop game designer."
-  location         : "South Bend, IN"
+  bio              : "Software Engineer and AI Researcher. Occasional web dev and tabletop game designer."
+  location         : "Arvada, CO"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  zeberhar@nd.edu
+  email            :  zacharyeberhart@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -114,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZackEberhart"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
